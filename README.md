@@ -8,7 +8,7 @@
 
 Eigene Daten (Klassen, Schüler:innen, Beobachtungen) bleiben ausschließlich auf dem eigenen Gerät gespeichert.
 
-**Datenschutzhinweis:**
+**Datenschutzhinweis:**  
 Es werden dabei ausschließlich der Programmcode (die leere App-Hülle) abgelegt – keine Schülerdaten. Alle eingetragenen Klassen, Namen und Beobachtungen bleiben ausschließlich lokal im Browser (localStorage) auf dem jeweiligen Gerät der Lehrkraft und werden nie an GitHub oder sonst irgendwohin übertragen.
 
 **Weitere Hinweise:** 
