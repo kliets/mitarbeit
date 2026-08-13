@@ -2,6 +2,7 @@
 
 **Was bietet das Tool?**
 
+![Alternativtext](bild-pfad.jpg)
 
 
 **Anleitung zur Nutzung:** 
