@@ -8,7 +8,7 @@
 
 **Was bietet das Tool?**
 
-<table> <tr> <td width="33%" valign="top"> <img src="zusatz/1.png" width="100%"> <p>Beteiligung schnell graphisch erfassen.</p> </td> <td width="33%" valign="top"> <img src="zusatz/2.png" width="100%" style="display:block;"> <img src="zusatz/4.png" width="100%" style="display:block;"> <img src="zusatz/3.png" width="100%" style="display:block;"> <p>Übersicht direkt als Heatmap, Verlauf oder Text sehen.</p> </td> <td width="33%" valign="top"> <img src="zusatz/3.jpeg" width="100%"> <p>Rückmeldung direkt teilen oder ausdrucken</p> </td> </tr> </table>
+<table> <tr> <td width="50%" valign="top"> <h3>Überschrift Spalte 1</h3> <img src="zusatz/1.png" width="100%"> <p>Beteiligung schnell graphisch erfassen.</p> </td> <td width="50%" valign="top"> <h3>Überschrift Spalte 2</h3> <table> <tr> <td width="50%" valign="top"> <img src="zusatz/2.png" width="100%" style="display:block;"> </td> <td width="50%" valign="top"> <img src="zusatz/3.png" width="100%" style="display:block;"> </td> </tr> <tr> <td width="50%" valign="top"> <img src="zusatz/4.png" width="100%" style="display:block;"> </td> <td width="50%" valign="top"> <img src="zusatz/5.png" width="100%" style="display:block;"> </td> </tr> </table> <p>Übersicht direkt als Heatmap, Verlauf oder Text sehen.</p> </td> </tr> </table>
 
 
 **Anleitung zur Nutzung:** 
