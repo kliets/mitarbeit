@@ -2,7 +2,7 @@
 
 **Was bietet das Tool?**
 
-<table> <tr> <td width="33%" valign="top">  <img src="img/mitarbeit.png" width="100%"> </a> <p>Beteiligung und Qualität mündlicher Mitarbeit pro Schüler:in graphisch erfassen.</p> </td> <td width="33%" valign="top">  <img src="img/redeanteil.png" width="100%"> </a> <p>Übersicht direkt als Heatmap und Verlauf sichtbar.</p> </td> <td width="33%" valign="top">  <img src="img/name.png" width="100%"> </a> <p>Direkt als Rückmeldung per PDF verteil- oder ausdruckbar </p> </td> </tr> </table>
+<table> <tr> <td width="33%" valign="top">  <img src="img/mitarbeit.png" width="100%"> </a> <p>Beteiligung schnell graphisch erfassen.</p> </td> <td width="33%" valign="top">  <img src="img/redeanteil.png" width="100%"> </a> <p>Übersicht direkt als Heatmap, Verlauf oder Text sehen.</p> </td> <td width="33%" valign="top">  <img src="img/name.png" width="100%"> </a> <p>Rückmeldung direkt teilen oder ausdrucken </p> </td> </tr> </table>
 
 
 **Anleitung zur Nutzung:** 
