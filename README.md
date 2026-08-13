@@ -1,4 +1,4 @@
-# **Mitarbeit - Graphische Unterrichtsbeobachtung**
+### **Mitarbeit - Graphische Unterrichtsbeobachtung**
 
 **Anleitung zur Nutzung:** 
 1. Link in Safari öffnen (auf iPhone oder iPad).
