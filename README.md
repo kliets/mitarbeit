@@ -15,8 +15,9 @@
 2. Auf das Teilen-Symbol tippen (Viereck mit Pfeil nach oben)
 3. „Zum Home-Bildschirm“ auswählen und bestätigen.
 4. Fertig: Ab jetzt startet die App per Icon.
+Hinweis: Eigene Daten (Klassen, Schüler:innen, Beobachtungen) bleiben ausschließlich auf dem eigenen Gerät gespeichert.
 
-Eigene Daten (Klassen, Schüler:innen, Beobachtungen) bleiben ausschließlich auf dem eigenen Gerät gespeichert.
+Hier folgt die ausführliche Bedienungsanleitung.
 
 **Datenschutzhinweis:**  
 Es werden dabei ausschließlich der Programmcode (die leere App-Hülle) abgelegt – keine Schülerdaten. Alle eingetragenen Klassen, Namen und Beobachtungen bleiben ausschließlich lokal im Browser (localStorage) auf dem jeweiligen Gerät der Lehrkraft und werden nie an GitHub oder sonst irgendwohin übertragen.
