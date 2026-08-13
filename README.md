@@ -2,7 +2,7 @@
 
 **Was bietet das Tool?**
 
-![Alternativtext](bild-pfad.jpg)
+<table> <tr> <td width="33%" valign="top"> <a href="https://dein-name.github.io/Mitarbeit.html"> <img src="img/mitarbeit.png" width="100%"> </a> <p>Beteiligung und Qualität mündlicher Mitarbeit pro Schüler:in erfassen, als Heatmap und Verlauf auswerten.</p> </td> <td width="33%" valign="top"> <a href="https://dein-name.github.io/Redeanteil.html"> <img src="img/redeanteil.png" width="100%"> </a> <p>Kurzbeschreibung des Tools: was es tut und für wen es gedacht ist.</p> </td> <td width="33%" valign="top"> <a href="https://dein-name.github.io/Name.html"> <img src="img/name.png" width="100%"> </a> <p>Kurzbeschreibung des Tools: was es tut und für wen es gedacht ist.</p> </td> </tr> </table>
 
 
 **Anleitung zur Nutzung:** 
