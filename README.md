@@ -1,4 +1,8 @@
-### **Mitarbeit - Graphische Unterrichtsbeobachtung**
+### **Mitarbeit - auf einen Blick**
+
+**Was bietet das Tool?**
+
+
 
 **Anleitung zur Nutzung:** 
 1. Link in Safari öffnen (auf iPhone oder iPad).
