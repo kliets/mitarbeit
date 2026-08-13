@@ -6,9 +6,8 @@
 
 
 
-**Was bietet das Tool?**
-
-<table style="width:100%; table-layout:fixed;"> <tr> <td width="50%" valign="top"> <h3>Überschrift Spalte 1</h3> <img src="zusatz/1.png" style="display:block;width:100%;max-width:100%;height:auto;"> <p>Beteiligung schnell graphisch erfassen.</p> </td> <td width="50%" valign="top"> <h3>Überschrift Spalte 2</h3> <table style="width:100%; table-layout:fixed;"> <tr> <td width="50%" valign="top"> <img src="zusatz/2.png" style="display:block;width:100%;max-width:100%;height:auto;"> </td> <td width="50%" valign="top"> <img src="zusatz/3.png" style="display:block;width:100%;max-width:100%;height:auto;"> </td> </tr> <tr> <td width="50%" valign="top"> <img src="zusatz/4.png" style="display:block;width:100%;max-width:100%;height:auto;"> </td> <td width="50%" valign="top"> <img src="zusatz/5.png" style="display:block;width:100%;max-width:100%;height:auto;"> </td> </tr> </table> <p>Übersicht direkt als Heatmap, Verlauf oder Text sehen.</p> </td> </tr> </table>
+**Was bietet die App?**
+<table> <tr> <td width="35%" valign="top"><img src="zusatz/1.png" width="100%"></td> <td valign="top"><p>Beteiligung schnell graphisch erfassen.</p></td> </tr> <tr> <td width="35%" valign="top"><img src="zusatz/2.png" width="100%"></td> <td valign="top"><p>Übersicht direkt als Heatmap sehen.</p></td> </tr> <tr> <td width="35%" valign="top"><img src="zusatz/3.png" width="100%"></td> <td valign="top"><p>Verlauf über mehrere Stunden nachvollziehen.</p></td> </tr> <tr> <td width="35%" valign="top"><img src="zusatz/4.png" width="100%"></td> <td valign="top"><p>Kurzbeschreibung eintragen.</p></td> </tr> <tr> <td width="35%" valign="top"><img src="zusatz/5.png" width="100%"></td> <td valign="top"><p>Rückmeldung direkt teilen oder ausdrucken.</p></td> </tr> </table>
 
 
 **Anleitung zur Nutzung:** 
