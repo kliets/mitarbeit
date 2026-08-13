@@ -7,7 +7,7 @@
 
 
 **Was bietet die App?**
-<table> <tr> <td width="35%" valign="top"><img src="zusatz/1.png" width="100%"></td> <td valign="top"><p>Beteiligung schnell graphisch erfassen.</p></td> </tr> <tr> <td width="35%" valign="top"><img src="zusatz/2.png" width="100%"></td> <td valign="top"><p>Übersicht direkt als Heatmap sehen.</p></td> </tr> <tr> <td width="35%" valign="top"><img src="zusatz/3.png" width="100%"></td> <td valign="top"><p>Verlauf über mehrere Stunden nachvollziehen.</p></td> </tr> <tr> <td width="35%" valign="top"><img src="zusatz/4.png" width="100%"></td> <td valign="top"><p>Kurzbeschreibung eintragen.</p></td> </tr> <tr> <td width="35%" valign="top"><img src="zusatz/5.png" width="100%"></td> <td valign="top"><p>Rückmeldung direkt teilen oder ausdrucken.</p></td> </tr> </table>
+<table> <tr> <td width="35%" valign="top"><img src="zusatz/1.png" width="100%"></td> <td valign="top"><p>Beteiligung schnell graphisch erfassen.</p></td> </tr> <tr> <td width="35%" valign="top"><img src="zusatz/3.png" width="100%"></td> <td valign="top"><p>Übersicht direkt als Heatmap sehen.</p></td> </tr> <tr> <td width="35%" valign="top"><img src="zusatz/2.png" width="100%"></td> <td valign="top"><p>Verlauf über mehrere Stunden nachvollziehen.</p></td> </tr> <tr> <td width="35%" valign="top"><img src="zusatz/4.png" width="100%"></td> <td valign="top"><p>Kurzbeschreibung eintragen.</p></td> </tr> <tr> <td width="35%" valign="top"><img src="zusatz/5.png" width="100%"></td> <td valign="top"><p>Rückmeldung direkt teilen oder ausdrucken.</p></td> </tr> </table>
 
 
 **Anleitung zur Nutzung:** 
