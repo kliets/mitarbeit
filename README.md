@@ -8,7 +8,7 @@
 
 **Was bietet das Tool?**
 
-<table> <tr> <td width="33%" valign="top">  <img src="zusatz/1.png" width="100%"> </a> <p>Beteiligung schnell graphisch erfassen.</p> </td> <td width="33%" valign="top">  <img src="zusatz/2.png" width="100%"> </a> <p>Übersicht direkt als Heatmap, Verlauf oder Text sehen.</p> </td> <td width="33%" valign="top">  <img src="zusatz/3.jpeg" width="100%"> </a> <p>Rückmeldung direkt teilen oder ausdrucken </p> </td> </tr> </table>
+<table> <tr> <td width="33%" valign="top"> <img src="zusatz/1.png" width="100%"> <p>Beteiligung schnell graphisch erfassen.</p> </td> <td width="33%" valign="top"> <img src="zusatz/2a.png" width="100%" style="display:block;"> <img src="zusatz/2b.png" width="100%" style="display:block;"> <img src="zusatz/2c.png" width="100%" style="display:block;"> <p>Übersicht direkt als Heatmap, Verlauf oder Text sehen.</p> </td> <td width="33%" valign="top"> <img src="zusatz/3.jpeg" width="100%"> <p>Rückmeldung direkt teilen oder ausdrucken</p> </td> </tr> </table>
 
 
 **Anleitung zur Nutzung:** 
