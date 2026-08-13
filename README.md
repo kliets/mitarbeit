@@ -11,7 +11,7 @@
 
 
 **Anleitung zur Nutzung:** 
-1. Link in Safari öffnen (auf iPhone oder iPad).
+1. Link im Browser öffnen (Safari auf Mac oder iPad).
 2. Auf das Teilen-Symbol tippen (Viereck mit Pfeil nach oben)
 3. „Zum Home-Bildschirm“ auswählen und bestätigen.
 4. Fertig: Ab jetzt startet die App per Icon.
