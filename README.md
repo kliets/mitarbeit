@@ -1,5 +1,5 @@
 ### **Mitarbeit - auf einen Blick**  
-<meta name="google-site-verification" content="J58mVGQ6XZDyH0QM4wmBfczeX1zecwvTP8Be26Zlv0E" />
+
 <br>
 <br>
 
